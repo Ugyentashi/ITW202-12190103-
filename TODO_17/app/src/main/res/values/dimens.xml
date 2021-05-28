@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size">70dp</dimen>
+    <dimen name="minus">70dp</dimen>
+    <dimen name="plus">70dp</dimen>
+    <dimen name="hegiy">70dp</dimen>
+</resources>
